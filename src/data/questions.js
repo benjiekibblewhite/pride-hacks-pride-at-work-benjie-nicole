@@ -9,7 +9,7 @@ const questions = {
             a5: "No, we do not have a group, but we make other facilities and resources available to LGBTQ2+ employees for networking, consulting, and providing feedback to the organization",
             a6: "No, we do not have a group but we are in the process of setting one up",
             a7: "No, we do not have a group nor do we offer specific alternative resources",
-            onlyOneAllowed: "false"
+            onlyOneAllowed: false
         },
         2: {
 
