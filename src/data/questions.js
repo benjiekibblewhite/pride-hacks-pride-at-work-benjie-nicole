@@ -1,5 +1,4 @@
 const questions = {
-    "Employee Resource Groups" : {
         1: {
             q : "Does your organization have an LGBTQ2+ employee resource group (ERG) in Canada? Select all that apply.",
             a1: "Yes, and the group has a defined role and formal recognition",
@@ -9,12 +8,8 @@ const questions = {
             a5: "No, we do not have a group, but we make other facilities and resources available to LGBTQ2+ employees for networking, consulting, and providing feedback to the organization",
             a6: "No, we do not have a group but we are in the process of setting one up",
             a7: "No, we do not have a group nor do we offer specific alternative resources",
-            onlyOneAllowed: "false"
+            onlyOneAllowed: "false",
         },
-        2: {
-
-        },
-    }
-}
+ }
 
 export default questions;

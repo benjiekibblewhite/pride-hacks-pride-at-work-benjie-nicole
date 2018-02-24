@@ -8,16 +8,19 @@
       </div>
       <ul id="menu">
         <li class="menu-item selected">
-          <a href="/">HOME</a>
+         <router-link to="/">HOME</router-link>
         </li>
         <li class="menu-item">
-          <a href="/benchmarks">BENCHMARKS</a>
+         <router-link to="/survey">ANSWER SURVEY</router-link>
         </li>
         <li class="menu-item">
-          <a href="/account">ACCOUNT</a>
+         <router-link to="/summary">REVIEW SURVEY</router-link>
         </li>
         <li class="menu-item">
-          <a href="/logout">LOGOUT</a>
+         <router-link to="/documents">DOCUMENTS</router-link>
+        </li>
+        <li class="menu-item">
+         <router-link to="/reports">REPORTS</router-link>
         </li>
       </ul>
     </nav>
@@ -25,7 +28,19 @@
   </div>
 </template>
 
+<script>
+import router from "./router.js"
+
+</script>
+
 <style>
+body {
+  font-family: Roboto;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: Source Sans Pro;
+}
   nav {
     background: url('./assets/rainbow-bar.jpg') center top #fff repeat-x;
     width: 100%;
