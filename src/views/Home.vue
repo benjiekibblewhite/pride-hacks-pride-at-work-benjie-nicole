@@ -3,13 +3,13 @@
     <img src="../assets/bg_becomeAPartner.jpg" >
     <section>
       <p><strong class="is-pride">Welcome to Pride at Work Canada’s Partnership Program!</strong> By
-  completing the Index Survey each year, your organization plays an integral role in
+  completing the Inclusion Index Survey each year, your organization plays an integral role in
   supporting Pride at Work Canada’s mission to empower organizations to foster a
   workplace culture that recognizes LGBTQ2+ employees as an important part of a diverse
   workforce through dialogue, education and leadership.</p>
   <p>The Index Survey consists of <strong class="is-pride">35-40 questions</strong>, which are divided into <strong class="is-pride">eight themes</strong>:</p>
   <ol>
-    <li>Anti-discrimination and Harassment policies</li>
+    <li>Anti-discrimination and Harassment Policies</li>
     <li>Employee Resource Groups</li>
     <li>Onboarding and Complaints Processes</li>
     <li>Benefits Coverage</li>
@@ -21,8 +21,7 @@
   <p>The results of the Index Survey are analyzed and summarized in a Report that will be
 uploaded to your Dashboard. The Report will include your organization’s Workplace
 Index Score, highlighting strengths and recommendations for areas of improvement.
-You will be able to view this year’s Report, in comparison to previous years, in the
-Dashboard.</p>
+You will be able to view this year’s Report, and compare your results to previous years, on the <strong class="is-pride">Reports page</strong>.</p>
 <p>Pride at Work Canada considers your confidentiality and privacy very seriously. For more
 information on our policies, please click <router-link to="/survey"><strong class='is-pride'>here</strong></router-link>.</p>
 <p>To begin the Index Survey, please click <strong class='is-pride'>here</strong>.</p>

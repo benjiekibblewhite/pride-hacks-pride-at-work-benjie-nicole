@@ -2,9 +2,9 @@
   <div class="home container is-fluid">
     <div class="survey-head">
       <div class="theme-title-holder"><i class="fas fa-book"></i>
-        <h1 class="title">Anti-discrimination and Harassment policies</h1></div>
-      <p class='sub-title'>At any point, you may save your progress, and you will be returned to the Survey Summary. You may return at any time to continue your progress.</p>
-      <p class="sub-title">Depending on your responses to the survey questions, you may be prompted to provide supporting documentation. You can upload those documents on this page, or you can visit the "Documentation" page to see all required documents, and review your previously submitted documentation.</p>
+        <h1 class="title">Anti-discrimination and Harassment Policies</h1></div>
+        <p class='sub-title'>At any point, you may save your progress, and you will be returned to the Survey Summary. You may return at any time to continue your progress.</p>
+        <p class="sub-title">Depending on your responses to the survey questions, you may be prompted to provide supporting documentation. You can upload those documents on this page, or you can visit the "Documentation" page to see all required documents, and review your previously submitted documentation.</p>
     </div>
         <section>
           <div class="field save">

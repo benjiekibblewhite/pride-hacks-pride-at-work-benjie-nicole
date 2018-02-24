@@ -2,12 +2,12 @@
   <div class="home container is-fluid">
     <div class="survey-head">
       <h1 class="title">Documents</h1>
-      <p class='sub-title'>On this page, you can review all of your previously submitted documentation, as well as and outstanding documents that we require.</p>
+      <p class='sub-title'>On this page, you can review all of your previously submitted documentation, as well as any outstanding documents that we require.</p>
 
     </div>
         <section>
           <h2 class="section-title has-text-danger">Required Documents</h2>
-           <label class="label is-medium question">How have you communicated with and engaged all employees on issues of LGBTQ2+ inclusion in the past year? Select all that apply..</label>
+           <label class="label is-medium question">How have you communicated with and engaged all employees on issues of LGBTQ2+ inclusion in the past year? Select all that apply.</label>
 
           <div class="field-body answer">
             <div class="field is-horizontal">
