@@ -76,12 +76,12 @@
 <div class="field is-grouped buttons">
   <p class="control">
     <a class="button is-pride">
-      Submit
+      Save Changes
     </a>
   </p>
   <p class="control">
-    <a class="button is-light">
-      Cancel
+    <a class="button is-danger">
+      Discard Changes
     </a>
   </p>
 </div>

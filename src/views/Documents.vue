@@ -80,6 +80,7 @@ Positive LGBTQ2+-related messages regularly appear in internal communications to
         </div>
 
         </section>
+
   </div>
 </template>
 

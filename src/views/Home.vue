@@ -24,7 +24,7 @@ Index Score, highlighting strengths and recommendations for areas of improvement
 You will be able to view this year’s Report, in comparison to previous years, in the
 Dashboard.</p>
 <p>Pride at Work Canada considers your confidentiality and privacy very seriously. For more
-information on our policies, please click <strong class='is-pride'>here</strong>.</p>
+information on our policies, please click <router-link to="/survey"><strong class='is-pride'>here</strong></router-link>.</p>
 <p>To begin the Index Survey, please click <strong class='is-pride'>here</strong>.</p>
 <p><strong class='is-pride'>Thank you for your participation!</strong></p>
   </section>
