@@ -15,12 +15,11 @@
               <div class="control">
                 <label class="checkbox">
                  LGBTQ2+-related information is included in employee on-boarding materials
-Positive LGBTQ2+-related messages regularly appear in internal communications to all employees (including but not limited to, newsletters, internal social media, articles, etc.)
-
                 </label>
               </div>
             </div>
           </div>
+            <p class="request">Please provide us with any examples of your on-boarding materials.</p>
            <div class="file">
             <label class="file-label">
               <input class="file-input" type="file" name="resume">
